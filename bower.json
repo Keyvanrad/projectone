@@ -1,0 +1,11 @@
+{
+  "name": "projectone",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "",
+    "bootstrap": "",
+    "jquery": "",
+    "jquery-ui": "",
+    "lodash": ""
+  }
+}
